@@ -29,9 +29,9 @@ some coding, some storytelling, and a little help from Claude AI.
 Let’s get visual 📈
 """
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 📦 Essential Imports and Setup
-# =============================================================================
+# -----------------------------------------------------------------------------
 import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -55,9 +55,9 @@ print("📊 Creating beautiful statistical plots with minimal code!")
 print("🚀 This tutorial will transform you into a visualization expert!\n")
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 📊 Creating Realistic Sample Datasets
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 Why synthetic data for learning?
 - No external dependencies or downloads needed
@@ -143,9 +143,9 @@ print(customers_df.head(3).to_string())
 print("\n" + "=" * 80 + "\n")
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 📊 Distribution Plots: Understanding Your Data's Shape
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY DISTRIBUTION PLOTS MATTER:
 Distribution visualizations are the foundation of data understanding. They reveal:
@@ -281,9 +281,9 @@ print(
 )
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 📈 Scatter Plots & Relationships: Discovering Data Connections
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY SCATTER PLOTS ARE ESSENTIAL:
 Scatter plots are your primary tool for exploring relationships between variables. They reveal:
@@ -407,9 +407,9 @@ print(
 )
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 🔥 Correlation Analysis & Heatmaps: Finding Hidden Patterns
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY CORRELATION ANALYSIS IS CRUCIAL:
 Correlation analysis reveals the hidden structure in your data:
@@ -533,9 +533,9 @@ print("   • Strong income-spending correlation suggests income-based targeting
 print("   • Regional and segment differences reveal market opportunities\n")
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 📊 Categorical Data Analysis: Comparing Groups Effectively
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY CATEGORICAL ANALYSIS MATTERS:
 Categorical visualizations answer critical business questions:
@@ -676,9 +676,9 @@ print(
 )
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 🎨 Time Series & Trend Analysis: Understanding Patterns Over Time
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY TIME SERIES VISUALIZATION IS ESSENTIAL:
 Time series plots reveal temporal patterns crucial for business planning:
@@ -826,9 +826,9 @@ print(
 )
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 🎯 Multi-Variable Analysis: FacetGrid & Advanced Visualizations
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY MULTI-VARIABLE ANALYSIS IS POWERFUL:
 Complex data requires sophisticated visualization approaches:
@@ -954,9 +954,9 @@ print("🔍 Advanced Insights: Four dimensions reveal complex customer behavior 
 print("💡 Strategic Value: Multi-dimensional analysis enables precision targeting\n")
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 🎨 Professional Styling & Customization: Publication-Ready Plots
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY PROFESSIONAL STYLING MATTERS:
 Beautiful, clear visualizations have tremendous business impact:
@@ -1086,9 +1086,9 @@ print(
 )
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 📊 Advanced Statistical Visualizations: Research-Grade Analysis
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY ADVANCED STATISTICAL PLOTS ARE ESSENTIAL:
 Statistical visualizations provide rigorous, evidence-based insights:
@@ -1295,9 +1295,9 @@ print("   • Regression model explains significant variance in spending")
 print("   • Confidence intervals guide business decision uncertainty\n")
 
 
-# =============================================================================
+# -----------------------------------------------------------------------------
 # 🚀 Interactive-Style Dashboard Creation
-# =============================================================================
+# -----------------------------------------------------------------------------
 """
 🎯 WHY DASHBOARD-STYLE LAYOUTS MATTER:
 Dashboard layouts present multiple KPIs and insights simultaneously:
@@ -1491,7 +1491,7 @@ At the end of the day, a great chart isn’t about making people say “wow”.
 It’s about making them say “ohh, I get it now”.
 
 That’s your real superpower. Use it well.
-"""
 
-print("🎉 CONGRATULATIONS! Data Visualization Mastery Complete!")
-print("📊 You've learned to create beautiful, insightful statistical visualizations")
+🎉 CONGRATULATIONS! Data Visualization Mastery Complete!
+📊 You've learned to create beautiful, insightful statistical visualizations
+"""
