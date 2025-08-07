@@ -1,94 +1,61 @@
+```
+
+╔───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╗
+│                                                                                                                                       │
+│ ██████╗  █████╗ ████████╗ █████╗     ███╗   ███╗ █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██╗      █████╗ ████████╗██╗ ██████╗ ███╗   ██╗ │
+│ ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ████╗ ████║██╔══██╗████╗  ██║██║██╔══██╗██║   ██║██║     ██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║ │
+│ ██║  ██║███████║   ██║   ███████║    ██╔████╔██║███████║██╔██╗ ██║██║██████╔╝██║   ██║██║     ███████║   ██║   ██║██║   ██║██╔██╗ ██║ │
+│ ██║  ██║██╔══██║   ██║   ██╔══██║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██║██╔═══╝ ██║   ██║██║     ██╔══██║   ██║   ██║██║   ██║██║╚██╗██║ │
+│ ██████╔╝██║  ██║   ██║   ██║  ██║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║██║     ╚██████╔╝███████╗██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║ │
+│ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ │
+│                                                                                                                                       │
+╚───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝
+
+
+
+```
 # 📊 2 — Data Manipulation & Cleaning with NumPy and Pandas
 
-This module is your **hands-on playground** for mastering data manipulation using Python's most powerful libraries: **NumPy** and **Pandas**.
+This is your **hands-on crash course** for wrangling messy real-world data in Python. Master the essential tools that power actual data analysis — from cleaning broken CSVs to advanced transformations that reveal business insights.
 
-The file `2_data_manipulation.py` is structured like a mini-course — filled with **realistic, executable code examples**, useful as:
+No filler. Just the tools that matter: **NumPy** for high-performance number crunching and **Pandas** for flexible, powerful data wrangling.
 
-- A **cheatsheet** while working on real projects
-- A **revision guide** before interviews
-- A **learning scaffold** to build muscle memory in Pandas or NumPy
 
----
+The file `2_data_manipulation.py` runs top to bottom with realistic examples, useful as:
+- **Cheatsheet** for real projects • **Interview prep** • **Step-by-step guide**
 
-## 🧠 What You’ll Learn
+## 🎯 What You'll Learn
 
-### 🔢 NumPy Fundamentals
-- Creating 1D and 2D arrays
-- Indexing, slicing, reshaping
-- Boolean masks and conditional filtering
-- Vectorized operations and broadcasting
-- Dot product, statistics, reshaping
-
-### 🐼 Pandas Proficiency
-- Creating DataFrames from realistic dictionaries
-- Summary stats and quick `.describe()` explorations
-- Complex filtering with multiple conditions
-- GroupBy aggregations
-- Pivot tables and product-level insights
-
-### 🧹 Data Cleaning Techniques
-- Handling missing values
-- Cleaning names, emails, phone numbers
-- Normalizing and validating fields
-- String cleaning, regex, and email formatting
-- Removing duplicates and checking for anomalies
-
-### 📄 File I/O Simulations
-- Reading CSV-style strings using `StringIO`
-- Parsing JSON and flattening nested structures
-- Export simulations for CSV, Excel, and JSON
-
-### 📈 Time Series & Categorization
-- Rolling averages
-- Cumulative sums
-- Categorizing salaries using `pd.cut()`
-- Adding columns like `day_of_week`, `is_weekend`
-
----
-
-## 🔍 Why This File Matters
-
-> Real-world datasets are never clean.
-
-This file simulates messy, inconsistent data you’ll encounter in business, analytics, and machine learning pipelines — and shows you how to **fix it from scratch**.
-
-If you're serious about becoming a data analyst, scientist, or even a competent backend dev working with data — this file is your **daily driver**.
-
----
-
-## 💻 Requirements
-
-Make sure you’ve installed the following Python libraries before running:
-
-```bash
-pip install numpy pandas
 ```
-## 💻 Requirements
-
-Make sure you’ve installed the following Python libraries before running:
-
-```bash
-pip install numpy pandas
+📊 NumPy Fundamentals    🧹 Data Cleaning       📝 String Operations
+🐼 Pandas DataFrames     📊 GroupBy Analysis    🔄 Data Reshaping
+📅 DateTime Operations   🔗 Merging DataFrames  🚀 Performance Tips
 ```
+*Each section includes hands-on examples with realistic business data*
 
-Or install everything used in this whole project via:
+## 📦 Requirements
+
+You'll need the usual data stack suspects:
 
 ```bash
 pip install -r requirements.txt
 ```
+**Includes:** NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • SciPy
 
----
-
-## 🧪 How to Use
-
-Open the `.py` file in **VSCode**, and either:
-
-- Run line-by-line using **Jupyter: Interactive Window** (`Shift + Enter`)
-- Or run the full file with:
+## 🚀 How to Run
 
 ```bash
+cd 2_data_manipulation/
 python 2_data_manipulation.py
 ```
+
+**Output:** Live examples, before/after cleaning, performance benchmarks, executive dashboard
+**Time:** ~15 minutes
+
+
+## 🎁 Bonus
+
+Real business scenarios • Memory optimization • Export examples • Performance comparisons
 
 Everything is annotated with:
 
@@ -96,30 +63,16 @@ Everything is annotated with:
 - ✅ Comments to explain each transformation
 - 🧼 Examples of both raw and cleaned outputs
 
----
-
-## 🎯 Bonus
-
-This file also includes:
-
-- A **mini employee database** parsed from a CSV string
-- A **product metrics** JSON block for nested structure normalization
-- A **text analysis** section using `.str` functions and regex
-- **Categorical salary binning** and basic **time series operations**
-
----
-
 ## 🏁 Next Step
 
-Once you're confident with this file, move on to:
-
-👉 `3_data_visualization`
-
-You’ll use **Matplotlib** and **Seaborn** to visually explore the kind of data you've been cleaning here.
+Master data manipulation → **`3_data_visualization/`** for charts and dashboards
 
 ---
+<hr>
+────────────────────────────
+<hr style="border: none; border-top: 1px solid #ddd;" />
 
-## ✍️ Author
 
-Made with 💻 and ☕ by **Fahad Shaikh**
-GitHub: [@fahdshaikh1997](https://github.com/fahdshaikh1997)
+**Navigation:**
+
+🏠 [Home](../README.md) › 🐍 [Python Fundamentals](../1_python_fundamentals/) › 📊 **Data Manipulation** › 📈 [Data Visualization](../3_data_visualization/) › 🤖 [Statistics & ML](../4_statistics_ml/)
