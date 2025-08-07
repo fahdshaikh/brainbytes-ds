@@ -96,11 +96,3 @@ _Hope it saves you some time (and sanity)._ ✌️
 ---
 ***Navigation:***<br>
 [🏠 Home](../) › **📂 Python Fundamentals** › [📂 Data Manipulation](../2_data_manipulation/) › [📂 Data Visualization](../3_data_visualization/) › [📂 Statistics & ML](../4_statistics_ml/)
-
-
-
-![Status](https://img.shields.io/badge/status-alpha-blueviolet)
-![Coolness](https://img.shields.io/badge/cool-100%25-brightgreen)
-![Python](https://img.shields.io/badge/python-3.x-yellow?logo=python)
-![Repo Size](https://img.shields.io/github/repo-size/fahdshaikh/fahad_labs)
-![Last Commit](https://img.shields.io/github/last-commit/fahdshaikh/fahad_labs)
