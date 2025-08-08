@@ -27,7 +27,7 @@
 ```
 # *📊 Data Science Essentials — MiniCourse Style*
 
-[![🐍 Python 3.10+](https://img.shields.io/badge/python-3.10%2B-306998?style=flat-square&logo=python&logoColor=FFD43B)](https://www.python.org/downloads/) ![🎯 Practical Learning](https://img.shields.io/badge/focus-practical_learning-27ae60?style=flat-square&logo=target&logoColor=white) ![⚡ Zero Setup](https://img.shields.io/badge/setup-zero_setup-00b894?style=flat-square&logo=thunder&logoColor=white) ![⏳ Self-Paced](https://img.shields.io/badge/study-self_paced-f9ca24?style=flat-square&logo=hourglass&logoColor=black) ![📊 Data Science](https://img.shields.io/badge/topic-data_science-8e44ad?style=flat-square&logo=chart-bar&logoColor=white)
+[![🐍 Python 3.10+](https://img.shields.io/badge/python-3.10%2B-306998?style=flat-square&logo=python&logoColor=FFD43B)](https://www.python.org/downloads/) ![🎯 Practical Learning](https://img.shields.io/badge/focus-practical_learning-27ae60?style=flat-square&logo=target&logoColor=white) ![⚡ Zero Setup](https://img.shields.io/badge/setup-zero_setup-00b894?style=flat-square&logo=thunder&logoColor=white) ![⏳ Self-Paced](https://img.shields.io/badge/study-self_paced-f9ca24?style=flat-square&logo=hourglass&logoColor=black) ![📊 Data Science](https://img.shields.io/badge/topic-data_science-8e44ad?style=flat-square&logo=chart-bar&logoColor=white) ![Work in Progress](https://img.shields.io/badge/🚧_Work_in_Progress-222222?style=flat-square&labelColor=FFD600)
 ![❤️ Made with Love](https://img.shields.io/badge/Made_with-Love-E74C3C?style=flat-square&logo=heart) ![☕ Fueled by Coffee](https://img.shields.io/badge/Fueled_by-Coffee-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white) ![🎨 Crafted with Creativity](https://img.shields.io/badge/Crafted_with-Creativity-9b59b6?style=flat-square&logo=palette&logoColor=white) ![🚀 Powered by Curiosity](https://img.shields.io/badge/Powered_by-Curiosity-00b894?style=flat-square&logo=rocket&logoColor=white) ![😎 100% Cool](https://img.shields.io/badge/Coolness-100%25-brightgreen?style=flat-square&logo=sunglasses&logoColor=white)
 ![🛠️ Built by @fahdshaikh1997](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Built%20by-@fahdshaikh1997-2980B9?style=flat-square&logo=github&logoColor=white) ![🤝 With Claude AI](https://img.shields.io/badge/%F0%9F%A4%9D%20Helped%20by-Claude%20AI-F9DC5C?style=flat-square&logo=Anthropic&logoColor=black) ![🤖 Explained with ChatGPT](https://img.shields.io/badge/%F0%9F%A4%96%20Explained%20with-ChatGPT-00C896?style=flat-square&logo=openai&logoColor=white)
 
@@ -35,7 +35,7 @@
 [![❤️ Made with Love](https://img.shields.io/badge/made_with-%E2%9D%A4%EF%B8%8F-FF0000?style=flat-square)]()
 ![🌈 Conceptually Vibrant](https://img.shields.io/badge/Conceptually-Vibrant-f9ca24?style=flat-square&logo=rainbow&logoColor=white)
 -->
-> **A practical, hands-on journey from Python basics to machine learning mastery**
+> ***TL;DR:*** &nbsp; Python to ML — 4 modules — Python, Pandas, Visualization, ML/Stats  🚀
 
 This is a complete Python-based mini-course designed for self-learners, analysts, and aspiring data scientists who want to **actually understand** what they're coding, not just copy-paste from tutorials.
 
@@ -85,8 +85,6 @@ flowchart TD
     style End fill:#00d2d3,stroke:#333,stroke-width:3px,color:#000
 
 ```
-
-
 ## 📁 Course Modules
 
 | Module | Focus Area | Key Skills |
@@ -234,7 +232,7 @@ Start your journey: **[🐍 Python Fundamentals →](./1_python_fundamentals/)**
 
 <div align="right">
 
-**Made with *❤️* for the data science community**
+**Made with *❤️* &nbsp; for the data science community**
 
 </div>
 
