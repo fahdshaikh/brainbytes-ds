@@ -1,15 +1,4 @@
 ```
-╔─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╗
-│                                                                                                                                         │
-│ ██████╗ ██╗   ██╗███╗   ██╗       ██╗     ███████╗ █████╗ ██████╗ ███╗   ██╗       ██████╗ ███████╗██████╗ ███████╗ █████╗ ████████╗    │
-│ ██╔══██╗██║   ██║████╗  ██║       ██║     ██╔════╝██╔══██╗██╔══██╗████╗  ██║       ██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝    │
-│ ██████╔╝██║   ██║██╔██╗ ██║       ██║     █████╗  ███████║██████╔╝██╔██╗ ██║       ██████╔╝█████╗  ██████╔╝█████╗  ███████║   ██║       │
-│ ██╔══██╗██║   ██║██║╚██╗██║       ██║     ██╔══╝  ██╔══██║██╔══██╗██║╚██╗██║       ██╔══██╗██╔══╝  ██╔═══╝ ██╔══╝  ██╔══██║   ██║       │
-│ ██║  ██║╚██████╔╝██║ ╚████║██╗    ███████╗███████╗██║  ██║██║  ██║██║ ╚████║██╗    ██║  ██║███████╗██║     ███████╗██║  ██║   ██║   ██╗ │
-│ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝    ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝    ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ │
-│                                                                                                                                         │
-╚─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╝
-
 ╔──────────────────────────────────────────────────────╗
 │                                                      │
 │ ██████╗ ██╗   ██╗███╗   ██╗                          │
@@ -36,50 +25,16 @@
 ╚──────────────────────────────────────────────────────╝
 
 ```
+# *📊 Data Science Essentials — MiniCourse Style*
 
-# 🧠 Data Science Cheatsheet: MiniCourse Edition
+[![🐍 Python 3.10+](https://img.shields.io/badge/python-3.10%2B-306998?style=flat-square&logo=python&logoColor=FFD43B)](https://www.python.org/downloads/) ![🎯 Practical Learning](https://img.shields.io/badge/focus-practical_learning-27ae60?style=flat-square&logo=target&logoColor=white) ![⚡ Zero Setup](https://img.shields.io/badge/setup-zero_setup-00b894?style=flat-square&logo=thunder&logoColor=white) ![⏳ Self-Paced](https://img.shields.io/badge/study-self_paced-f9ca24?style=flat-square&logo=hourglass&logoColor=black) ![📊 Data Science](https://img.shields.io/badge/topic-data_science-8e44ad?style=flat-square&logo=chart-bar&logoColor=white)
+![❤️ Made with Love](https://img.shields.io/badge/Made_with-Love-E74C3C?style=flat-square&logo=heart) ![☕ Fueled by Coffee](https://img.shields.io/badge/Fueled_by-Coffee-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white) ![🎨 Crafted with Creativity](https://img.shields.io/badge/Crafted_with-Creativity-9b59b6?style=flat-square&logo=palette&logoColor=white) ![🚀 Powered by Curiosity](https://img.shields.io/badge/Powered_by-Curiosity-00b894?style=flat-square&logo=rocket&logoColor=white) ![😎 100% Cool](https://img.shields.io/badge/Coolness-100%25-brightgreen?style=flat-square&logo=sunglasses&logoColor=white)
+![🛠️ Built by @fahdshaikh1997](https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Built%20by-@fahdshaikh1997-2980B9?style=flat-square&logo=github&logoColor=white) ![🤝 With Claude AI](https://img.shields.io/badge/%F0%9F%A4%9D%20Helped%20by-Claude%20AI-F9DC5C?style=flat-square&logo=Anthropic&logoColor=black) ![🤖 Explained with ChatGPT](https://img.shields.io/badge/%F0%9F%A4%96%20Explained%20with-ChatGPT-00C896?style=flat-square&logo=openai&logoColor=white)
 
-[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-<!-- [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  -->
-[![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)]()
-[![Made with ❤️](https://img.shields.io/badge/made%20with-❤️-red.svg)]()
-![Status](https://img.shields.io/badge/status-alpha-blueviolet)
-![Coolness](https://img.shields.io/badge/cool-100%25-brightgreen)
-![Python](https://img.shields.io/badge/python-3.x-yellow?logo=python)
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Course Type](https://img.shields.io/badge/type-mini%20course-blueviolet)
-![Beginner Friendly](https://img.shields.io/badge/level-beginner-green)
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-![Focus](https://img.shields.io/badge/focus-practical%20learning-brightgreen)
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Course Type](https://img.shields.io/badge/type-mini%20course-blueviolet)
-![Beginner Friendly](https://img.shields.io/badge/level-beginner-green)
-![Python](https://img.shields.io/badge/python-3.10+-blue)
-
-![Focus](https://img.shields.io/badge/focus-practical%20learning-brightgreen)
-![No Setup](https://img.shields.io/badge/setup-zero%20setup-lightgrey)
-![Self-Paced](https://img.shields.io/badge/study-self--paced-orange)
-![Jupyter Optional](https://img.shields.io/badge/jupyter-optional-informational)
-
-![Libraries](https://img.shields.io/badge/libs-numpy%2Cpandas%2Csklearn-teal)
-![ML Ready](https://img.shields.io/badge/ML-ready-red)
-![Terminal Ready](https://img.shields.io/badge/terminal-friendly-black)
-
-![Last Commit](https://img.shields.io/github/last-commit/fahdshaikh1997/cheatsheet_ds_minicourse)
-![License](https://img.shields.io/github/license/fahdshaikh1997/cheatsheet_ds_minicourse)
-![Stars](https://img.shields.io/github/stars/fahdshaikh1997/cheatsheet_ds_minicourse?style=social)
-
-![Built with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)
-![Made with Coffee](https://img.shields.io/badge/made%20with-coffee-brown)
-![Not a Bootcamp](https://img.shields.io/badge/not-a%20bootcamp-lightblue)
-
-![Built by](https://img.shields.io/badge/built%20by-@fahdshaikh1997-blue)
-![Claude AI](https://img.shields.io/badge/helped%20by-Claude%20AI-ffcf00?logo=Anthropic)
-![ChatGPT](https://img.shields.io/badge/explained%20with-ChatGPT-10a37f?logo=openai)
-
-
+<!--
+[![❤️ Made with Love](https://img.shields.io/badge/made_with-%E2%9D%A4%EF%B8%8F-FF0000?style=flat-square)]()
+![🌈 Conceptually Vibrant](https://img.shields.io/badge/Conceptually-Vibrant-f9ca24?style=flat-square&logo=rainbow&logoColor=white)
+-->
 > **A practical, hands-on journey from Python basics to machine learning mastery**
 
 This is a complete Python-based mini-course designed for self-learners, analysts, and aspiring data scientists who want to **actually understand** what they're coding, not just copy-paste from tutorials.
@@ -97,15 +52,40 @@ Every module is battle-tested with realistic examples, clear explanations, and z
 
 ```mermaid
 graph LR
-    A[🐍 Python Fundamentals] --> B[📊 Data Manipulation]
-    B --> C[📈 Data Visualization]
-    C --> D[🤖 Statistics & ML]
+    A[🐍 Python<br/>Fundamentals] --> B[📊 Data<br/>Manipulation]
+    B --> C[📈 Data<br/>Visualization]
+    C --> D[🤖 Statistics<br/>& ML]
+    D --> E[🚀 Real Projects]
+    E -.-> A
 
-    A -.-> |"Variables, Functions<br/>Control Flow, Data Types"| A1[Build Foundation]
-    B -.-> |"NumPy, Pandas<br/>Cleaning, Reshaping"| B1[Wrangle Data]
-    C -.-> |"Matplotlib, Seaborn<br/>Statistical Plots"| C1[Tell Stories]
-    D -.-> |"Regression, Classification<br/>Model Evaluation"| D1[Predict Future]
+    style E fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
+
 ```
+
+
+```mermaid
+flowchart TD
+    Start([❓ I have data, now what?])
+    Start --> M1[🐍 Module 1: Python Fundamentals]
+    M1 --> M2[📊 Module 2: Data Manipulation]
+    M2 --> M3[📈 Module 3: Data Visualization]
+    M3 --> M4[🤖 Module 4: Statistics & ML]
+    M4 --> End([🎯 Data Science Professional])
+
+    M1 -.-> T1[Syntax & Control Flow]
+    M2 -.-> T2[Pandas & NumPy Mastery]
+    M3 -.-> T3[Professional Charts]
+    M4 -.-> T4[ML Pipelines & Testing]
+
+    style Start fill:#ff6b6b,stroke:#333,stroke-width:3px,color:#000
+    style M1 fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#000
+    style M2 fill:#45b7d1,stroke:#333,stroke-width:2px,color:#000
+    style M3 fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
+    style M4 fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
+    style End fill:#00d2d3,stroke:#333,stroke-width:3px,color:#000
+
+```
+
 
 ## 📁 Course Modules
 
@@ -119,9 +99,9 @@ graph LR
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.7+ installed
+- Python 3.10+ installed
 - Basic curiosity about data
-- No prior experience needed!
+- Basic familiarity with coding in Python
 
 ### Setup
 ```bash
@@ -146,8 +126,65 @@ python 1_python_fundamentals.py
 ├── 🤖 4_statistics_ml/          # From hypothesis tests to ML pipelines
 └── 📋 requirements.txt          # numpy, pandas, matplotlib, seaborn, scikit-learn, scipy
 ```
+```mermaid
+graph TD
+    A[Raw Data] --> B{🐍 Python Basics}
+    B --> C[📊 Data Manipulation]
+    B --> D[📈 Data Visualization]
+    C --> E[🧪 Statistical Analysis]
+    D --> E
+    E --> F[🤖 Machine Learning]
+    F --> G[🎯 Data Science Pro]
+
+    B -.-> |Variables & Functions| B1[Foundation]
+    C -.-> |Pandas & NumPy| C1[Data Wrangling]
+    D -.-> |Charts & Dashboards| D1[Visual Storytelling]
+    E -.-> |Hypothesis Testing| E1[Statistical Validation]
+    F -.-> |Models & Evaluation| F1[Predictive Analytics]
+
+    style A fill:#ff7675,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#74b9ff,stroke:#333,stroke-width:3px,color:#000
+    style C fill:#55a3ff,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#fdcb6e,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#e17055,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#a29bfe,stroke:#333,stroke-width:2px,color:#000
+    style G fill:#00b894,stroke:#333,stroke-width:3px,color:#000
+
+```
 
 ## 💡 Learning Philosophy
+
+```mermaid
+graph LR
+    subgraph "📚 Course Modules"
+        A[🐍 Python] --> B[📊 Data Wrangling]
+        B --> C[📈 Visualization]
+        C --> D[🤖 ML & Stats]
+    end
+
+    subgraph "💼 Real World Impact"
+        E[Clean Messy Data]
+        F[Statistical Testing]
+        G[Predictive Models]
+        H[Business Insights]
+    end
+
+    A --> E
+    B --> E
+    C --> H
+    D --> F
+    D --> G
+
+    style A fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#45b7d1,stroke:#333,stroke-width:2px,color:#000
+    style C fill:#f9ca24,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#6c5ce7,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#96ceb4,stroke:#333,stroke-width:2px,color:#000
+    style F fill:#ffeaa7,stroke:#333,stroke-width:2px,color:#000
+    style G fill:#fab1a0,stroke:#333,stroke-width:2px,color:#000
+    style H fill:#fd79a8,stroke:#333,stroke-width:2px,color:#000
+
+```
 
 **This isn't another tutorial dump.** Every concept is introduced with:
 - ✅ **Why it matters** in real projects
@@ -178,12 +215,6 @@ By the end of this course, you'll have working knowledge of:
 📋 Feature engineering and model comparison workflows
 ```
 
-## 🏆 Success Stories
-
-*"Finally, a data science course that doesn't assume I have a PhD in math. The examples are so practical - I used the pandas techniques at work the next day!"*
-
-*"The ML section is gold. Shows you how to actually evaluate models, not just fit them and hope for the best."*
-
 ## 🤝 Contributing
 
 Found a bug? Have a suggestion? Feel free to:
@@ -191,23 +222,23 @@ Found a bug? Have a suggestion? Feel free to:
 - 🔀 Submit a pull request
 - ⭐ Star the repo if it helped you!
 
-## 🙏 Credits
+## ✨ Credits
 
 Built by [@fahdshaikh1997](https://github.com/fahdshaikh1997) with extensive help from Claude AI and ChatGPT for explanations, code review, and making complex concepts accessible.
-
 This project represents countless hours of research, testing, and refinement to create something genuinely useful for the data science community.
 
 **Ready to transform from data curious to data capable?** 🚀
-
 Start your journey: **[🐍 Python Fundamentals →](./1_python_fundamentals/)**
 
 ---
 
-<div align="center">
+<div align="right">
 
-[![GitHub stars](https://img.shields.io/github/stars/fahdshaikh1997/cheatsheet_ds_minicourse.svg?style=social&label=Star)](https://github.com/fahdshaikh1997/cheatsheet_ds_minicourse)
-[![GitHub forks](https://img.shields.io/github/forks/fahdshaikh1997/cheatsheet_ds_minicourse.svg?style=social&label=Fork)](https://github.com/fahdshaikh1997/cheatsheet_ds_minicourse/fork)
-
-**Made with ❤️ for the data science community**
+**Made with *❤️* for the data science community**
 
 </div>
+
+<!--
+**Made with *❤️* for the data science community**
+[![GitHub stars](https://img.shields.io/github/stars/fahdshaikh1997/cheatsheet_ds_minicourse.svg?style=social&label=Star)](https://github.com/fahdshaikh1997/cheatsheet_ds_minicourse)
+[![GitHub forks](https://img.shields.io/github/forks/fahdshaikh1997/cheatsheet_ds_minicourse.svg?style=social&label=Fork)](https://github.com/fahdshaikh1997/cheatsheet_ds_minicourse/fork) ->
