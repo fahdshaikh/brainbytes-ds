@@ -1,0 +1,63 @@
+# 🚀 Gitpod Configuration - Full Cloud Development Environment
+# Opens a complete VS Code environment with everything pre-configured!
+
+image: gitpod/workspace-python
+
+# 🛠️ Setup tasks that run when workspace starts
+tasks:
+  - name: 🎯 Setup Data Science Environment
+    init: |
+      echo "🧪 Setting up your data science learning environment..."
+      python -m pip install --upgrade pip
+      pip install -r requirements.txt
+      echo "✅ All packages installed!"
+      echo "🎓 Ready to start learning!"
+    command: |
+      echo "🐍 Welcome to Data Science MiniCourse!"
+      echo "📁 Available modules:"
+      echo "  • 🐍 1_python_fundamentals/"
+      echo "  • 📊 2_data_manipulation/" 
+      echo "  • 📈 3_data_visualization/"
+      echo "  • 🤖 4_statistics_ml/"
+      echo ""
+      echo "🚀 Quick start:"
+      echo "  python 1_python_fundamentals/1_python_fundamentals.py"
+      echo ""
+      echo "💡 Or explore with Jupyter:"
+      echo "  jupyter lab"
+
+# 🎨 VS Code extensions for optimal learning
+vscode:
+  extensions:
+    - ms-python.python
+    - ms-python.vscode-pylance
+    - ms-toolsai.jupyter
+    - ms-toolsai.vscode-jupyter-cell-tags
+    - ms-toolsai.vscode-jupyter-slideshow
+    - charliermarsh.ruff
+    - ms-python.black-formatter
+    - ms-python.isort
+    - ms-python.flake8
+    - alexcvzz.vscode-sqlite
+    - redhat.vscode-yaml
+    - yzhang.markdown-all-in-one
+
+# 🌐 Port configuration for Jupyter
+ports:
+  - port: 8888
+    onOpen: open-preview
+    description: Jupyter Lab
+  - port: 8000
+    onOpen: ignore
+    description: Development server
+
+# ⚡ GitHub prebuild optimization
+github:
+  prebuilds:
+    # Enable for the default branch
+    master: true
+    main: true
+    # Enable for pull requests from forks
+    pullRequestsFromForks: true
+    # Enable for all branches
+    branches: false

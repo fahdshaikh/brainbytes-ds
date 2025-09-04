@@ -1,0 +1,68 @@
+{
+  "name": "🧪 Data Science Learning Lab",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  
+  // 🎨 VS Code customizations
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python",
+        "python.linting.enabled": true,
+        "python.linting.pylintEnabled": false,
+        "python.linting.flake8Enabled": true,
+        "python.formatting.provider": "black",
+        "editor.formatOnSave": true,
+        "editor.rulers": [88, 100],
+        "files.trimTrailingWhitespace": true,
+        "terminal.integrated.shell.linux": "/bin/bash"
+      },
+      
+      // 🔧 Essential extensions for data science learning
+      "extensions": [
+        "ms-python.python",
+        "ms-python.flake8", 
+        "ms-python.black-formatter",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "charliermarsh.ruff",
+        "ms-vscode.vscode-json",
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker"
+      ]
+    }
+  },
+  
+  // 🚀 Post-creation setup commands
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+  
+  // 🎯 Features to install
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  
+  // 🌐 Port forwarding for Jupyter
+  "forwardPorts": [8888, 8080],
+  "portsAttributes": {
+    "8888": {
+      "label": "Jupyter Lab",
+      "onAutoForward": "notify"
+    },
+    "8080": {
+      "label": "Development Server",
+      "onAutoForward": "ignore"
+    }
+  },
+  
+  // 🛡️ Container configuration
+  "remoteUser": "vscode",
+  "containerUser": "vscode",
+  
+  // 🔧 Additional mounts for persistence
+  "mounts": [
+    "source=${localWorkspaceFolder}/.vscode,target=/workspaces/${localWorkspaceFolderBasename}/.vscode,type=bind"
+  ]
+}

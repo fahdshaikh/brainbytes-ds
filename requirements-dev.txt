@@ -1,0 +1,45 @@
+# 🛠️ Development Dependencies
+# ==========================================
+# For contributors and advanced users who want to:
+# • Convert scripts to notebooks
+# • Run tests and quality checks  
+# • Contribute new content
+# • Set up development environment
+
+# 📚 Core learning libraries (same as requirements.txt)
+-r requirements.txt
+
+# 🧪 Testing and Quality
+pytest>=7.4.0              # Unit testing framework
+pytest-cov>=4.1.0          # Code coverage reports  
+flake8>=6.0.0               # Code style checking
+black>=23.7.0               # Code formatting
+isort>=5.12.0               # Import sorting
+
+# 📓 Jupyter and Notebook Tools
+jupyter>=1.0.0              # Jupyter notebooks
+jupyterlab>=4.0.0           # Modern Jupyter interface
+nbconvert>=7.7.0            # Convert between notebook formats
+nbformat>=5.9.0             # Notebook file format handling
+
+# 🎨 Development Tools
+pre-commit>=3.3.0           # Git hooks for quality checks
+mypy>=1.5.0                 # Type checking (optional)
+bandit>=1.7.0               # Security linting
+
+# 📊 Enhanced Data Science Tools
+plotly>=5.15.0              # Interactive visualizations
+bokeh>=3.2.0                # Web-based plotting
+streamlit>=1.25.0           # Quick web apps for demos
+
+# 🚀 Automation and Utilities
+invoke>=2.2.0               # Task automation
+tox>=4.9.0                  # Testing across Python versions
+sphinx>=7.1.0               # Documentation generation (if needed)
+
+# 🎯 Optional Advanced Libraries
+# Uncomment if working with specific domains:
+# tensorflow>=2.13.0        # Deep learning
+# torch>=2.0.0              # PyTorch for neural networks  
+# xgboost>=1.7.0            # Gradient boosting
+# lightgbm>=4.0.0           # Fast gradient boosting
