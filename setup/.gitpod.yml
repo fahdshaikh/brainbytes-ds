@@ -9,19 +9,19 @@ tasks:
     init: |
       echo "🧪 Setting up your data science learning environment..."
       python -m pip install --upgrade pip
-      pip install -r requirements.txt
+      pip install -r setup/requirements.txt
       echo "✅ All packages installed!"
       echo "🎓 Ready to start learning!"
     command: |
       echo "🐍 Welcome to Data Science MiniCourse!"
       echo "📁 Available modules:"
-      echo "  • 🐍 1_python_fundamentals/"
-      echo "  • 📊 2_data_manipulation/" 
-      echo "  • 📈 3_data_visualization/"
-      echo "  • 🤖 4_statistics_ml/"
+      echo "  • 🐍 course/01_foundations/"
+      echo "  • 📊 course/02_data_wrangling/" 
+      echo "  • 📈 course/03_visualization/"
+      echo "  • 🤖 course/04_machine_learning/"
       echo ""
       echo "🚀 Quick start:"
-      echo "  python 1_python_fundamentals/1_python_fundamentals.py"
+      echo "  python course/01_foundations/lesson.py"
       echo ""
       echo "💡 Or explore with Jupyter:"
       echo "  jupyter lab"

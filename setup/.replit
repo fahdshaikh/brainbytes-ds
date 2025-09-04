@@ -2,13 +2,13 @@
 # This makes your repository work perfectly in Replit!
 
 language = "python3"
-run = "python 1_python_fundamentals/1_python_fundamentals.py"
+run = "python course/01_foundations/lesson.py"
 
 [nix]
 channel = "stable-22_11"
 
 [deployment]
-run = ["sh", "-c", "python 1_python_fundamentals/1_python_fundamentals.py"]
+run = ["sh", "-c", "python course/01_foundations/lesson.py"]
 
 [languages]
 
